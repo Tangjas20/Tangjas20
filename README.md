@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Tangjas20 or Jason Tang
-- 👀 Currently I'm interested in all sorts of engineering/robotics-related activities whether that be arduino or Raspberry Pi or even ESP32 to an extent (Basically automation).
-      I'm also keen in programming, I would like to code in many different languages (Still fairly inexperienced)
+- 👀 Currently I'm interested in DevOps, SRE and hardware/software security. 
       
       
-- 🌱 I’m currently studying a Bachelor of Engineering(Hons)(Software)/Commerce(Finance)
-- 💞️ I’m looking to collaborate on literally anything. If you want to talk or do anything, just shoot me a message
+- 🌱 I’m currently studying a Bachelor of Engineering(Hons)(Software)/Commerce(Finance) at USYD
+- 💞️ At work, I am setting up and monitoring our test and production servers, and programming the backend for our internal ERP system.
 
 - 📫 How to reach me Lalalala#3187 on Discord, or Tangjas2020Code@gmail.com
 
